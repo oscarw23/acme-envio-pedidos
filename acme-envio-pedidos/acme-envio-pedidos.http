@@ -1,0 +1,6 @@
+@acme_envio_pedidos_HostAddress = http://localhost:5208
+
+GET {{acme_envio_pedidos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
